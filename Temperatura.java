@@ -12,6 +12,5 @@ public class Temperatura {
 			
 		System.out.println("Tempreratura: "+C);
 		
-		
 	}
 }
